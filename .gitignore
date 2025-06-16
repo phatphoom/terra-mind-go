@@ -1,0 +1,14 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+cache/
+tmp/
+*.tmp
+*.log
+.env
+.env.local
+.env.*.local
